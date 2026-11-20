@@ -14,7 +14,9 @@ if __name__ == "__main__":
   notify_user()
 
   if fatal != 0:
-      process_fatal_errors()errors = 2
+      process_fatal_errors()
+      
+errors = 2
 info = 1
 
 def notify_user():
