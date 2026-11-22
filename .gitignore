@@ -1,7 +1,10 @@
 # assignment 3 tasks
 *.pyc
 *.pyw
-*.venv
+# *.venv
+
+
+assignment_06/ImportErrors-main/.venv/
 *.txt
 !test.txt
 !requirements.txt
