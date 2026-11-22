@@ -1,7 +1,7 @@
 # assignment 3 tasks
 *.pyc
 *.pyw
-
+*.venv
 *.txt
 !test.txt
 !requirements.txt
